@@ -4,6 +4,7 @@ module.exports = {
     description: `Kick off your next, great Gatsby cat project with this starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@fang-kitty.js`,
   },
+  pathPrefix: "/testing_gatsby",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
